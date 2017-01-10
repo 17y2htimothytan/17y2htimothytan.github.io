@@ -4,3 +4,7 @@ color: #800000;
 h2{
 color: #800000;
 }
+div {
+    height: 200px;
+    width: 50%;
+}
